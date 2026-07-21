@@ -1,49 +1,57 @@
-# ¡Hola! Soy Yeison Caicedo (YandreyC) 🚀
+# ¡Hola! Soy Yeison Andrey Caicedo Garzón (YandreyC) 🚀
 
-Estudiante avanzado de Ingeniería de Sistemas apasionado por el desarrollo de software, la arquitectura de datos y el aseguramiento de la calidad (QA). Me caracterizo por un enfoque analítico, estructurado y metódico, orientado a construir soluciones tecnológicas eficientes, estables y de alta calidad.
+Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de software full-stack, la arquitectura de datos y el aseguramiento de la calidad (QA). Mi trabajo se destaca por un enfoque analítico, estructurado y metódico, orientado a diseñar e implementar soluciones tecnológicas eficientes, escalables y mantenibles.
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Backend:** Python (Django) / Node.js
-- **Frontend:** Next.js / React / JavaScript / HTML5 / CSS3
-- **Bases de Datos:** SQL Server (MSSQL) / Firebase Firestore
-- **Aseguramiento de Calidad:** Vitest / React Testing Library (Pruebas Unitarias y E2E)
-- **Infraestructura y Entornos:** Windows Server / Kali Linux / Virtualización (VirtualBox)
-- **Herramientas y Metodologías:** Git & GitHub / Scrum / Análisis de datos con MATLAB
+- **Lenguajes:** JavaScript (ES6+), Python, TypeScript, SQL, MATLAB
+- **Backend:** Node.js, Python (Django)
+- **Frontend:** Next.js, React, HTML5, CSS3 / Tailwind CSS
+- **Bases de Datos:** SQL Server (MSSQL), Firebase Firestore
+- **Aseguramiento de Calidad (QA):** Vitest, React Testing Library (Pruebas Unitarias, Integración y E2E)
+- **Infraestructura y Entornos:** Windows Server, Kali Linux, Virtualización (VirtualBox)
+- **Herramientas y Metodologías:** Git & GitHub, Scrum, REST APIs
 
 ---
 
 ## 📁 Proyectos Destacados
 
+### 🧪 Suite de Pruebas Automatizadas & Web Core (QA / Frontend)
+*Aseguramiento de calidad, arquitectura reactiva y resiliencia de código para aplicaciones modernas.*
+- **Ecosistema:** Next.js, Firebase Firestore, Vitest, React Testing Library, Tailwind CSS.
+- **Características clave:** Diseño y ejecución de suites de pruebas automatizadas (unitarias, de componentes y de integración) cubriendo hooks personalizados, llamadas asíncronas y flujos críticos de renderizado para garantizar alta estabilidad en producción.
+
 ### 🍽️ Sistema de Información para Gestión de Restaurantes
-*Desarrollo Full-Stack enfocado en la automatización de procesos internos.*
-- **Ecosistema:** Python, Django, SQL Server.
-- **Características clave:** Implementación completa de módulos CRUD, sistema de autenticación seguro y un gestor de control de acceso basado en roles (RBAC) para optimizar el flujo operativo entre administradores, cajeros y meseros.
+*Plataforma Full-Stack para la automatización y control operativo de restaurantes.*
+- **Ecosistema:** Python, Django, SQL Server (MSSQL).
+- **Características clave:** Arquitectura robusta con módulos CRUD completos, autenticación segura de usuarios y sistema de Control de Acceso Basado en Roles (RBAC) para la gestión entre administradores, cajeros y meseros.
 
 ### 💻 NextLang OS
-*Simulación web interactiva de un entorno de sistema operativo (Evolución de ARC-OS).*
-- **Ecosistema:** Next.js, JavaScript, CSS Avanzado.
-- **Características clave:** Desarrollo de una interfaz web modular que emula un sistema operativo con un kernel virtual, gestor de procesos activos y un administrador de lenguajes integrado.
+*Simulación interactiva de un entorno de sistema operativo en el navegador.*
+- **Ecosistema:** Next.js, JavaScript, CSS3.
+- **Características clave:** Desarrollo de una interfaz web modular que simula la gestión de procesos activos, kernel virtual y administración de entornos de ejecución en el cliente.
 
-### 🥛 Regressly - Intervención Tecnológica en Analítica Predictiva
-*Proyecto estratégico enfocado en el sector agrícola y la eficiencia de procesos.*
-- **Ecosistema:** MATLAB / Python.
-- **Características clave:** Implementación de modelos de regresión lineal y analítica predictiva para abordar ineficiencias de gestión en productores lácteos del Valle de Ubaté, transformando datos en decisiones estratégicas.
-
-### 🧪 Suite de Pruebas Automatizadas (QA)
-*Aseguramiento de estabilidad y resiliencia de código.*
-- **Ecosistema:** Vitest, React Testing Library.
-- **Características clave:** Diseño y ejecución de más de 10 horas de pruebas automatizadas (unitarias y de componentes) cubriendo hooks y flujos críticos de renderizado para aplicaciones modernas en Next.js.
+### 🥛 Regressly
+*Plataforma de analítica predictiva enfocada en el sector agroindustrial.*
+- **Ecosistema:** MATLAB, Python.
+- **Características clave:** Modelado estadístico y algoritmos de regresión lineal para la toma de decisiones estratégicas y optimización de procesos de producción láctea en el Valle de Ubaté.
 
 ---
 
-## 🧠 Filosofía de Desarrollo & "Side Projects"
-En mis tiempos libres opero mi propio **Laboratorio Técnico Personal (Tech Lab)**. Me dedico a la investigación autónoma, la configuración de servidores virtuales, la optimización de hardware y el desarrollo de proyectos independientes (*side projects*). Creo firmemente que un buen software no solo debe programarse bien, sino que debe ser testeado a fondo y planificado con una estructura clara.
+## 🧠 Filosofía de Desarrollo & Tech Lab
+En mi tiempo libre opero mi propio **Laboratorio Técnico Personal (Tech Lab)**, enfocado en la investigación autónoma, experimentación con infraestructura virtualizada, optimización de entornos y desarrollo de proyectos (*side projects*). Creo firmemente que un software de excelencia no solo debe ser funcional, sino también rigurosamente testeado y diseñado bajo arquitecturas limpias.
+
+---
 
 ## 📬 Conectemos
-- 💼 **Educación:** Universidad de Cundinamarca (Ingeniería de Sistemas)
-- 📧 **Contacto:** caicedoyeison067@gmail.com
+
+- 🎓 **Formación:** Universidad de Cundinamarca — Ingeniería de Sistemas
+- 📧 **Correo Electrónico:** caicedoyeison067@gmail.com
 - 📍 **Ubicación:** Cundinamarca, Colombia
+- 🐙 **GitHub:** [github.com/YandreyC](https://github.com/YandreyC)
 
 ---
+
 ⚡ *“Ante desafíos complejos o requerimientos cambiantes, mantengo la calma y el enfoque metodológico, priorizando la optimización de procesos y la excelencia.”*
