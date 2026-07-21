@@ -1,22 +1,34 @@
 # ¡Hola! Soy Yeison Andrey Caicedo Garzón (YandreyC) 🚀
 
-Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de software full-stack, la arquitectura de datos y el aseguramiento de la calidad (QA). Mi trabajo se destaca por un enfoque analítico, estructurado y metódico, orientado a diseñar e implementar soluciones tecnológicas eficientes, escalables y mantenibles.
+Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de software full-stack, aplicaciones móviles, arquitectura de datos y aseguramiento de la calidad (QA). Mi trabajo se destaca por un enfoque analítico, estructurado y metódico, orientado a diseñar e implementar soluciones tecnológicas eficientes, escalables y mantenibles.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** JavaScript (ES6+), Python, TypeScript, SQL, MATLAB
-- **Backend:** Node.js, Python (Django)
-- **Frontend:** Next.js, React, HTML5, CSS3 / Tailwind CSS
-- **Bases de Datos:** SQL Server (MSSQL), Firebase Firestore
-- **Aseguramiento de Calidad (QA):** Vitest, React Testing Library (Pruebas Unitarias, Integración y E2E)
-- **Infraestructura y Entornos:** Windows Server, Kali Linux, Virtualización (VirtualBox)
-- **Herramientas y Metodologías:** Git & GitHub, Scrum, REST APIs
+### Lenguajes y Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bases de Datos y Testing
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
 ## 📁 Proyectos Destacados
+
+### 🎯 Focus7 (Focus Seven)
+*Aplicación móvil organizadora semanal minimalista y offline-first.*
+- **Ecosistema:** Flutter, Dart, Hive / Local Persistence.
+- **Características clave:** Arquitectura limpia (*Clean Architecture*) orientada a alta eficiencia y rendimiento en cliente local. Cuenta con gestión intuitiva de tareas de lunes a domingo, priorización por código de colores y persistencia local sin dependencia de red ni autenticación de terceros.
 
 ### 🧪 Suite de Pruebas Automatizadas & Web Core (QA / Frontend)
 *Aseguramiento de calidad, arquitectura reactiva y resiliencia de código para aplicaciones modernas.*
@@ -40,6 +52,15 @@ Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de soft
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YandreyC&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de YandreyC" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandreyC&layout=compact&theme=radical" alt="Lenguajes más usados" height="175"/>
+</div>
+
+---
+
 ## 🧠 Filosofía de Desarrollo & Tech Lab
 En mi tiempo libre opero mi propio **Laboratorio Técnico Personal (Tech Lab)**, enfocado en la investigación autónoma, experimentación con infraestructura virtualizada, optimización de entornos y desarrollo de proyectos (*side projects*). Creo firmemente que un software de excelencia no solo debe ser funcional, sino también rigurosamente testeado y diseñado bajo arquitecturas limpias.
 
@@ -47,11 +68,11 @@ En mi tiempo libre opero mi propio **Laboratorio Técnico Personal (Tech Lab)**,
 
 ## 📬 Conectemos
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caicedoyeison067@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YandreyC)
+
 - 🎓 **Formación:** Universidad de Cundinamarca — Ingeniería de Sistemas
-- 📧 **Correo Electrónico:** caicedoyeison067@gmail.com
 - 📍 **Ubicación:** Cundinamarca, Colombia
-- 🐙 **GitHub:** [github.com/YandreyC](https://github.com/YandreyC)
 
 ---
-
 ⚡ *“Ante desafíos complejos o requerimientos cambiantes, mantengo la calma y el enfoque metodológico, priorizando la optimización de procesos y la excelencia.”*
