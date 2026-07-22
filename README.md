@@ -54,10 +54,10 @@ Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de soft
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YandreyC&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de YandreyC" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandreyC&layout=compact&theme=radical" alt="Lenguajes más usados" height="175"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YandreyC&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YandreyC&theme=dark" alt="GitHub Streak" height="165" />
+</p>
 
 ---
 
@@ -68,11 +68,11 @@ En mi tiempo libre opero mi propio **Laboratorio Técnico Personal (Tech Lab)**,
 
 ## 📬 Conectemos
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caicedoyeison067@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YandreyC)
-
 - 🎓 **Formación:** Universidad de Cundinamarca — Ingeniería de Sistemas
+- 💼 **LinkedIn:** [linkedin.com/in/yeison-caicedo](https://www.linkedin.com/in/yeison-andrey-caicedo-garzon-7632b0419/)
+- 📧 **Correo Electrónico:** caicedoyeison067@gmail.com
 - 📍 **Ubicación:** Cundinamarca, Colombia
+- 🐙 **GitHub:** [github.com/YandreyC](https://github.com/YandreyC)
 
 ---
 ⚡ *“Ante desafíos complejos o requerimientos cambiantes, mantengo la calma y el enfoque metodológico, priorizando la optimización de procesos y la excelencia.”*
