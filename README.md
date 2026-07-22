@@ -25,7 +25,7 @@ Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de soft
 
 ## 📁 Proyectos Destacados
 
-### 🎯 Focus7 (Focus Seven)
+### 🎯 Focus Seven
 *Aplicación móvil organizadora semanal minimalista y offline-first.*
 - **Ecosistema:** Flutter, Dart, Hive / Local Persistence.
 - **Características clave:** Arquitectura limpia (*Clean Architecture*) orientada a alta eficiencia y rendimiento en cliente local. Cuenta con gestión intuitiva de tareas de lunes a domingo, priorización por código de colores y persistencia local sin dependencia de red ni autenticación de terceros.
@@ -49,15 +49,6 @@ Estudiante avanzado de Ingeniería de Sistemas enfocado en el desarrollo de soft
 *Plataforma de analítica predictiva enfocada en el sector agroindustrial.*
 - **Ecosistema:** MATLAB, Python.
 - **Características clave:** Modelado estadístico y algoritmos de regresión lineal para la toma de decisiones estratégicas y optimización de procesos de producción láctea en el Valle de Ubaté.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YandreyC&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YandreyC&theme=dark" alt="GitHub Streak" height="165" />
-</p>
 
 ---
 
