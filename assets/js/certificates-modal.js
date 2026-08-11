@@ -37,33 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
             icon: 'fa-graduation-cap'
         },
         {
-            id: 'matlab-fundamentals',
-            title: 'MATLAB Fundamentals',
-            institution: 'MathWorks',
-            category: 'Programación Técnica',
-            file: 'MATLAB Fundamentals.pdf',
-            type: 'pdf',
-            icon: 'fa-square-root-variable'
-        },
-        {
-            id: 'deep-learning-matlab',
-            title: 'Deep Learning with MATLAB',
-            institution: 'MathWorks',
-            category: 'Inteligencia Artificial',
-            file: 'Deep Learning with MATLAB.pdf',
-            type: 'pdf',
-            icon: 'fa-brain'
-        },
-        {
-            id: 'machine-learning-matlab',
-            title: 'Machine Learning with MATLAB',
-            institution: 'MathWorks',
-            category: 'Inteligencia Artificial',
-            file: 'Machine Learning with MATLAB.pdf',
-            type: 'pdf',
-            icon: 'fa-robot'
-        },
-        {
             id: 'cisco-cybersecurity',
             title: 'Introduction to Cybersecurity',
             institution: 'Cisco Networking Academy',
